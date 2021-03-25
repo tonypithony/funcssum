@@ -2,6 +2,8 @@
 
 ## [Nieuwe klassieker](https://github.com/Antoniii/Swift-Some-Sum)
 
+# [sum n^m, n=1 to 100, m = 3](https://www.wolframalpha.com/input/?i=sum+n%5Em%2C+n%3D1+to+100%2C+m+%3D+3)
+
 ![](https://raw.githubusercontent.com/tonypithony/funcssum/main/in_search_of_incredible.png)
 
 ### Sources
